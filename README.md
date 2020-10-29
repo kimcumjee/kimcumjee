@@ -10,7 +10,7 @@
 
 
 <!--
-*munyoung03/munyoung03* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*kimcumjee/kimcumjee* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
