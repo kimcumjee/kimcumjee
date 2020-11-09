@@ -5,7 +5,7 @@
 -------------------
 
 [![kimcumjee github stats](https://github-readme-stats.vercel.app/api?username=kimcumjee&count_private=true&show_icons=true)](https://github.com/kimcumjee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimcumjee&layout=compact)](https://github.com/kimcumjee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimcumjee&hide=html,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
