@@ -6,7 +6,8 @@
 
 [![kimcumjee github stats](https://github-readme-stats.vercel.app/api?username=kimcumjee&count_private=true&show_icons=true)](https://github.com/kimcumjee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimcumjee&layout=compact)](https://github.com/kimcumjee)
-
+[![Solved.ac
+tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qbq5000)](https://solved.ac/kicumjee)
 
 
 <!--
