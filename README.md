@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100011107697657)](https://www.facebook.com/profile.php?id=100011107697657)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheep103132@gmail.com)](mailto:sheep103132@gmail.com) 
 <br/>
 -------------------
