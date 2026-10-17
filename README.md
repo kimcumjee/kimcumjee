@@ -50,6 +50,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![WKWebView](https://img.shields.io/badge/WKWebView-1A1A1A?style=for-the-badge&logo=apple&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-2C7BE5?style=for-the-badge)
 ![SPM](https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=swift&logoColor=white)
