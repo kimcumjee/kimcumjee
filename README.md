@@ -1,7 +1,3 @@
-<div align="center">
-
-</div>
-
 ## 경력
 
 ### [인티그레이션](https://medistream.co.kr/) Mobile Engineer
@@ -54,7 +50,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![WebKit](https://img.shields.io/badge/WebKit-1A1A1A?style=for-the-badge&logo=apple&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-2C7BE5?style=for-the-badge)
 ![SPM](https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -76,8 +71,8 @@
 
 ### AI
 
-![Gemini](https://img.shields.io/badge/Firebase_AI_(Gemini)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
 
 <br>
 
