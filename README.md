@@ -2,7 +2,7 @@
 
 ### [인티그레이션](https://medistream.co.kr/) Mobile Engineer
 *2023.04 - 현재*
-- 메디스트림·모어덴·치즈톡·치크루팅·업스트림 5개 서비스의 iOS·Android 앱과 Flutter 다이어트 앱 린다이어트(MAU 2만)를 개발합니다.
+- 의료 분야 5개 서비스(메디스트림·모어덴·치즈톡·치크루팅·업스트림)의 iOS·Android 앱과 Flutter 다이어트 앱 린다이어트(MAU 2만)를 개발합니다.
 - Flutter WebView 앱의 Swift·Kotlin 전환, 공통 하이브리드 프레임워크, Tuist 프로젝트 코드화, 태그 기반 배포 파이프라인을 설계·구축했습니다.
 
 ### [샵라이브](https://www.shoplive.cloud/) iOS Engineer
