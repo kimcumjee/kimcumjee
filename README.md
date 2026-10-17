@@ -78,9 +78,8 @@
 
 ## 앱
 
-[![App Store](https://img.shields.io/badge/App_Store-Medistream_Corp.-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/medistream-corp/id1573511491)
+[![App Store](https://img.shields.io/badge/App_Store-MEDISTREAM-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/medistream-corp/id1573511491)
 [![Google Play](https://img.shields.io/badge/Google_Play-MEDISTREAM-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=MEDISTREAM)
-[![린다이어트](https://img.shields.io/badge/App_Store-린다이어트-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6444097742)
 
 <br>
 
