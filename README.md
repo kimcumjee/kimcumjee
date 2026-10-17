@@ -96,6 +96,5 @@
 
 ## 링크
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimcumjee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hsj2003.notion.site/f13079b9c690498a8939a6a0a10d2edd)
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:sheep103132@naver.com)
