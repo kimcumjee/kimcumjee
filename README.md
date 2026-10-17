@@ -50,18 +50,17 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![WebKit](https://img.shields.io/badge/WebKit-1A1A1A?style=for-the-badge&logo=apple&logoColor=white)
+![WKWebView](https://img.shields.io/badge/WKWebView-1A1A1A?style=for-the-badge&logo=apple&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-2C7BE5?style=for-the-badge)
 ![SPM](https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Tuist](https://img.shields.io/badge/Tuist-6236FF?style=for-the-badge)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-### Android · Cross-platform
+### Flutter
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-1E88E5?style=for-the-badge)
+![go_router](https://img.shields.io/badge/go__router-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Build · Deploy
 
